@@ -13,7 +13,7 @@ class car(Vehicle):
 #Inheritance
 class boat(Vehicle):
     def move(self):
-        print("sail")
+        print("Sail")
 
 #Inheritance
 class plane(Vehicle):
