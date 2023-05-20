@@ -12,13 +12,11 @@ class car(Vehicle):
 
 #Inheritance
 class boat(Vehicle):
-    def move(self):
-        print("sail")
+    pass
 
 #Inheritance
 class plane(Vehicle):
-    def move(self):
-        print("Fly")
+    pass
 
 c1 = car("Ford","001")
 b1 = boat("Mercedes","Mer-001")
